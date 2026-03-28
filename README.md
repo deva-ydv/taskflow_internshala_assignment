@@ -82,7 +82,7 @@ taskflow/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/<your-username>/taskflow.git
+git clone https://github.com/deva-ydv/taskflow_internshala_assignment.git
 cd taskflow
 
 # Install backend
