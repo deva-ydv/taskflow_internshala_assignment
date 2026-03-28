@@ -1,3 +1,7 @@
+# Built with the assistance of AI tools (ChatGPT, Claude); I fully understand and implemented the project myself.
+
+---
+
 # TaskFlow — Scalable REST API with Auth & RBAC
 
 A production-ready backend API built with **Node.js + Express + MongoDB**, featuring JWT authentication, role-based access control (RBAC), full CRUD, Swagger docs, and a React frontend. Built as part of the Backend Developer Intern assignment.
